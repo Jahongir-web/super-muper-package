@@ -1,0 +1,12 @@
+{
+  "name": "my-first-super-package",
+  "version": "1.0.0",
+  "description": "bu package stringlar bilan ishlashga mo'ljallangan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "package", "string"],
+  "author": "",
+  "license": "ISC"
+}
